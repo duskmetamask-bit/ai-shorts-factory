@@ -1,0 +1,15 @@
+{
+  "name": "AI Shorts Factory",
+  "description": "Generate faceless YouTube Shorts scripts with viral scores",
+  "repository": "https://github.com/duskmetamask-bit/ai-shorts-factory",
+  "branch": "main",
+  "main_file": "app.py",
+  "team": "",
+  "deployment": {
+    "env": {
+      "OPENAI_API_KEY": {
+        "type": "secret"
+      }
+    }
+  }
+}
